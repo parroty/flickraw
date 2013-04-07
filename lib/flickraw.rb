@@ -1,8 +1,8 @@
-require 'json/pure'
 require 'flickraw/oauth'
 require 'flickraw/request'
 require 'flickraw/response'
 require 'flickraw/api'
+require 'json/pure'
 
 module FlickRaw
   VERSION='0.9.6'
