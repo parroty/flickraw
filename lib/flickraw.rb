@@ -1,4 +1,4 @@
-require 'json'
+require 'json/pure'
 require 'flickraw/oauth'
 require 'flickraw/request'
 require 'flickraw/response'
